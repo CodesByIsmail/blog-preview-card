@@ -105,7 +105,7 @@ body {
 
 @media screen and (max-width: 476px) {
     .blog__wrapper {
-        padding: 24px;
+        padding: 1.5rem;
     }
 
     .blog__card {
@@ -113,29 +113,27 @@ body {
         height: 485px;
     }
 
-    .blog__card__img {
-        /* width: 279px; */
-    }
-
     .learning__badge {
-        font-size: 12px;
-        margin-bottom: 12px;
+        font-size: 0.75rem;
+        margin-bottom: 0.75rem;
     }
 
     .puslished__date {
-        font-size: 12px;
+        font-size: 0.75rem;
+        margin-bottom: 0.75rem;
     }
 
     .tittle {
-        font-size: 20px;
+        font-size: 1.25rem;
+        margin-bottom: 0.75rem;
     }
 
     .description {
-        font-size: 14px;
+        font-size: 0.875rem;
     }
 
     .user__dp h3 {
-        font-size: 14px;
+        font-size: 0.875rem;
     }
 
     .blog__wrapper {
